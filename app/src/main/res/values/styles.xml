@@ -1,0 +1,14 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <!--设置ToolBar 颜色-->
+        <item name="colorPrimary">@color/colorPrimaryDark</item>
+        <!---状态栏-->
+        <item name="colorPrimaryDark">#FF8F3D</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:textColorSecondary">#00FFFF</item>
+    </style>
+
+</resources>
